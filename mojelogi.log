@@ -1,0 +1,38 @@
+Skrypt uruchomiony nie, 18 gru 2016, 20:02:06
+]0;user@user-VirtualBox: ~user@user-VirtualBox:~$ ls -a
+[0m[01;34m.[0m              [01;34mDokumenty[0m              [01;34m.mission-control[0m  .pulse-cookie
+[01;34m..[0m             dowod                  mojelogi.log      [01;34mSzablony[0m
+[01;34m.aptitude[0m      examples.desktop       [01;34m.mozilla[0m          [01;34m.thumbnails[0m
+.bash_history  [01;34m.fontconfig[0m            [01;34mMuzyka[0m            [01;36mtomcat[0m
+.bash_logout   [01;34m.gconf[0m                 .mysql_history    [01;34mtools[0m
+.bashrc        [01;34m.gnome2[0m                [01;34mObrazy[0m            [01;34mWideo[0m
+.bashrc~       .goutputstream-SDP83W  [01;34mparos[0m             [01;36mwww[0m
+[01;34mbin[0m            .gtk-bookmarks         [01;34mPobrane[0m           .Xauthority
+[01;34m.cache[0m         [01;34m.gvfs[0m                  .profile          .xsession-errors
+[01;34m.config[0m        .ICEauthority          [01;34mPubliczny[0m         .xsession-errors.old
+[01;34m.dbus[0m          [01;34m.java[0m                  [01;34mPulpit[0m
+.dmrc          [01;34m.local[0m                 [01;34m.pulse[0m
+]0;user@user-VirtualBox: ~user@user-VirtualBox:~$ cd ..
+]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ ls -a
+[0m[01;34m.[0m  [01;34m..[0m  [01;34muser[0m  [01;34muser2[0m
+]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ ls [K[K[Kcat user3[K2/dowod
+Jan 
+Kowalski
+]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ nao[Kno do[K[Kuser2/dodw[K[Kwod
+[?1049h[1;24r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6            Plik: user2/dowod                                   [3;1H(B[mJan[4dKowalski[22;11H(B[0;7m[ Wczytano 2 linie (Ostrzeżenie: brak pozwolenia na zapis) ][23d^G(B[m Pomoc     (B[0;7m^O(B[m Zapisz    (B[0;7m^R(B[m Wczyt.plik(B[0;7m^Y(B[m Poprz.str.(B[0;7m^K(B[m Wytnij    (B[0;7m^C(B[m Bież.poz.[24d(B[0;7m^X(B[m Wyjdź     (B[0;7m^J(B[m Wyjustuj  (B[0;7m^W(B[m Wyszukaj  (B[0;7m^V(B[m Nast.str. (B[0;7m^U(B[m Wklej     (B[0;7m^T(B[m Pisownia[3d[4d[5d[1;66H(B[0;7mZmodyfikowany[5d(B[muroz dzony w no  Nowowga[22d[K[5;19Hrdzoe  ie w 1839   53 roku[3;5HKowalski urodzony w Nowowgardzie w 1853 roku[4d[K[5d[K[22;24H(B[0;7m[ Można teraz cofnąć justowanie! ][24d(B[mCofnij jus[4d[22d[K[24;56HWklej     [4d[22d(B[0;7mNazwa pliku do zapisu: user2/dowod                                              [23;14H(B[m       (B[0;7mM-D(B[m Format DOS      (B[0;7mM-A(B[m Dopisz          (B[0;7mM-B(B[m Kopia zapas.[K[24;2H(B[0;7mC(B[m Anuluj           (B[0;7mM-M(B[m Format Mac      (B[0;7mM-P(B[m Wpisz[K[22;35H(B[0;7mm(B[m(B[0;7m (B[m[1K (B[0;7m[ Anulowano ](B[m[K[23;14H(B[0;7m^O(B[m Zapisz    (B[0;7m^R(B[m Wczyt.plik(B[0;7m^Y(B[m Poprz.str.(B[0;7m^K(B[m Wytnij    (B[0;7m^C(B[m Bież.poz.[24;2H(B[0;7mX(B[m Wyjdź     (B[0;7m^J(B[m Wyjustuj  (B[0;7m^W(B[m Wyszukaj  (B[0;7m^V(B[m Nast.str. (B[0;7m^U(B[m Wklej     (B[0;7m^T(B[m Pisownia[4d[22d(B[0;7mNazwa pliku do zapisu: user2/dowod                                              [23;14H(B[m       (B[0;7mM-D(B[m Format DOS      (B[0;7mM-A(B[m Dopisz          (B[0;7mM-B(B[m Kopia zapas.[K[24;2H(B[0;7mC(B[m Anuluj           (B[0;7mM-M(B[m Format Mac      (B[0;7mM-P(B[m Wpisz[K[22;35H(B[0;7m2(B[m(B[0;7mZapisać plik pod INNĄ NAZWĄ ?      [23d T(B[m Tak[K[24d(B[0;7m N(B[m Nie   [17G(B[0;7m^C(B[m Anuluj[K[22;31H[22;15H[1K (B[0;7m[ Błąd podczas zapisu user2/dowod2: Brak dostępu ](B[m[K[23d(B[0;7m^G(B[m Pomoc     (B[0;7m^O(B[m Zapisz    (B[0;7m^R(B[m Wczyt.plik(B[0;7m^Y(B[m Poprz.str.(B[0;7m^K(B[m Wytnij    (B[0;7m^C(B[m Bież.poz.[24d(B[0;7m^X(B[m Wyjdź     (B[0;7m^J(B[m Wyjustuj  (B[0;7m^W(B[m Wyszukaj  (B[0;7m^V(B[m Nast.str. (B[0;7m^U(B[m Wklej     (B[0;7m^T(B[m Pisownia[4d[22d(B[0;7mNazwa pliku do zapisu: user2/dowod                                              [23;14H(B[m       (B[0;7mM-D(B[m Format DOS      (B[0;7mM-A(B[m Dopisz          (B[0;7mM-B(B[m Kopia zapas.[K[24;2H(B[0;7mC(B[m Anuluj           (B[0;7mM-M(B[m Format Mac      (B[0;7mM-P(B[m Wpisz[K[22;35H[1K (B[0;7m[ Anulowano ](B[m[K[23;14H(B[0;7m^O(B[m Zapisz    (B[0;7m^R(B[m Wczyt.plik(B[0;7m^Y(B[m Poprz.str.(B[0;7m^K(B[m Wytnij    (B[0;7m^C(B[m Bież.poz.[24;2H(B[0;7mX(B[m Wyjdź     (B[0;7m^J(B[m Wyjustuj  (B[0;7m^W(B[m Wyszukaj  (B[0;7m^V(B[m Nast.str. (B[0;7m^U(B[m Wklej     (B[0;7m^T(B[m Pisownia[4d[5d[22d(B[0;7mZapisać zmieniony bufor (ODPOWIEDŹ "Nie" SPOWODUJE UTRATĘ ZMIAN) ?              [23;1H T(B[m Tak[K[24d(B[0;7m N(B[m Nie          (B[0;7m^C(B[m Anuluj[K[22;68H[23d[J[24;80H[24;1H[?1049l[?1l>]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ su
+Hasło: 
+su: Uwierzytelnienie nie powiodło się
+]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ SU
+SU: nie znaleziono polecenia
+]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ su
+Hasło: 
+su: Uwierzytelnienie nie powiodło się
+]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ su
+Hasło: 
+]0;root@user-VirtualBox: /homeroot@user-VirtualBox:/home# nano user2/dowod2
+[?1049h[1;24r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.2.6           Plik: user2/dowod2                                   [22;34H[ Nowy plik ][23d^G(B[m Pomoc     (B[0;7m^O(B[m Zapisz    (B[0;7m^R(B[m Wczyt.plik(B[0;7m^Y(B[m Poprz.str.(B[0;7m^K(B[m Wytnij    (B[0;7m^C(B[m Bież.poz.[24d(B[0;7m^X(B[m Wyjdź     (B[0;7m^J(B[m Wyjustuj  (B[0;7m^W(B[m Wyszukaj  (B[0;7m^V(B[m Nast.str. (B[0;7m^U(B[m Wklej     (B[0;7m^T(B[m Pisownia[3d[1;66H(B[0;7mZmodyfikowany[3d(B[mMAr  ater usz Kri        [22d[K[3dMa [Kjak  [KN[KJanek Kowalski[4dur. 15 sierpnia 1953 [5d[22d(B[0;7mNazwa pliku do zapisu: user2/dowod2                                             [23;14H(B[m       (B[0;7mM-D(B[m Format DOS      (B[0;7mM-A(B[m Dopisz          (B[0;7mM-B(B[m Kopia zapas.[K[24;2H(B[0;7mC(B[m Anuluj           (B[0;7mM-M(B[m Format Mac      (B[0;7mM-P(B[m Wpisz[K[22;36H[1;66H[39;49m(B[0;7m             [22;29H(B[m[1K (B[0;7m[ Zapisano 3 wiersze ](B[m[K[23;14H(B[0;7m^O(B[m Zapisz    (B[0;7m^R(B[m Wczyt.plik(B[0;7m^Y(B[m Poprz.str.(B[0;7m^K(B[m Wytnij    (B[0;7m^C(B[m Bież.poz.[24;2H(B[0;7mX(B[m Wyjdź     (B[0;7m^J(B[m Wyjustuj  (B[0;7m^W(B[m Wyszukaj  (B[0;7m^V(B[m Nast.str. (B[0;7m^U(B[m Wklej     (B[0;7m^T(B[m Pisownia[5d[23d[J[24;80H[24;1H[?1049l[?1l>]0;root@user-VirtualBox: /homeroot@user-VirtualBox:/home# exit
+exit
+]0;user@user-VirtualBox: /homeuser@user-VirtualBox:/home$ exit
+exit
+
+Skrypt wykonany nie, 18 gru 2016, 20:13:14

@@ -1,0 +1,11 @@
+1. Czym siê ró¿ni¹ testy funkcjonalne od niefunkcjonalnych?
+	Testy funkcjonalne obejmuj¹ testowanie oprogramowania - co robi;
+	testy niefunkcjonalne obejmuj¹ testowanie oprogramowania - jak dzia³a.
+2. Co to s¹ 'smoke testy' i testy regresji? Kiedy je stosujemy?
+	Smoke testy s¹ to testy polagaj¹ce na sprawdzeniu czy podstawowe funkcje oprogramowania dzia³aj¹, wykonuje siê je
+	we wczesnych etapach projektu. 
+	Testy regresji s¹ to powtórnie wykonywane te same testy, na ju¿ przetestowanym oprogramowaniu, wykonuje siê je gdy udostêpniona jest nowa wersja do testowania.
+3. Co jest celem testowania?
+	Celem testowania jest znajdowanie ró¿nego typu b³êdów; weryfikacjê oprogramowania czy spe³nia wymogi specyfikacji oraz czy oprogramowanie spe³nia oczekiwania u¿ytkowanika(czyli walidacja).
+4. Jak tester mo¿e sie upewniæ, ¿e b³¹d zosta³ naprwaiony?
+	Gdy testy regresywne oprogramowania zakoñcz¹ siê pozytywnie. 

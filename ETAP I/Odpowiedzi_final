@@ -1,0 +1,35 @@
+1. Czym się różnią testy funkcjonalne od niefunkcjonalnych?
+	Testy funkcjonalne obejmują testowanie oprogramowania - co robi;
+	testy niefunkcjonalne obejmują testowanie oprogramowania - jak działa.
+2. Co to są 'smoke testy' i testy regresji? Kiedy je stosujemy?
+	Smoke testy są to testy polagające na sprawdzeniu czy podstawowe funkcje oprogramowania działają, wykonuje się je
+	we wczesnych etapach projektu. 
+	Testy regresji są to powtórnie wykonywane te same testy, na już przetestowanym oprogramowaniu, wykonuje się je gdy udostępniona jest nowa wersja do testowania.
+3. Co jest celem testowania?
+	Celem testowania jest znajdowanie różnego typu błędów; weryfikację oprogramowania czy spełnia wymogi specyfikacji oraz czy oprogramowanie spełnia oczekiwania użytkowanika(czyli walidacja).
+4. Jak tester może sie upewnić, że błąd został naprwaiony?
+	Gdy testy regresywne oprogramowania zakończą się pozytywnie. 
+5. Testujesz aplikacje termometr, która wykonuje pomiar temperatury. Co byś zrobił, aby przetestować zachowanie aplikacji przy skrajnych wartościach -50C i 200C?
+	Napisałabym test, w którym zmienną przechowująca wartość temperatury, zastymulowałabym podanymi skrajnymi inputami i obserwowała stan aplikacji. 
+6. Ile przypaków testowych potrzeba, aby pokryć wszystkie możliwości?
+	Przy napisaniu dwóch przypaków testowych uzyskamy pełne pokrycie kodu.
+7. Dany jest input "wiek", który przyjmuje wartości od 18 do 60... Podaj wszystkie liczby, które wpisujesz.
+	Dwie poprawne wartości brzegowe: 18 i 60; oraz dwie niepoprawne wartości brzegowe 17 i 61.
+8. Jakie pytania zadasz analitykowi zanim przystąpisz do testów?
+	Zadałabym następujące pytania: 
+	-	Jakiego typu aplikację testujemy (bankowa, społecznościowa, zakupowa etc.)?
+	-	W jakim systemie wykonana jest baza danych (np. relacyjna) i jakie dane przechwuje baza?
+	- 	W jaki sposób następuje weryfikacja i logowanie?
+	-	Jakiego typu są inputy? I jakiego typu inputów oczekuje baza danych?
+	- 	Na kiedy  jest deadline? ;)
+9. Czym różni się metoda GET od POST?
+	Metoda GET przekazuje parametry poprzez adres URL, a metoda POST przez tablicę asocjacyjną.
+10. Czy HTTP jest protokołem zmiennostanowym?
+	HTTP nie jest protokołem zmiennostanowym. HTTP jest protokołem bezstanowym - nie przechowuje informacji co się działo wcześniej (nie przechowuje danych np. logowania, przeglodanych stron)
+11. Czym rózni się LEFT JOIN od INNER JOIN?
+	LEFT JOIN pobiera wszystkie rekordy z lewej tabeli i pasujące do klucza z prawej tabeli. INNER JOIN pobiera rekordy tylko pasujące do klucza z obu tabel.
+12. W jakim katalogu, standardowo Linux trzyma pliki konfiguracyjne?
+	Standardowo Linux  przechowuje pliki konfiguracyjne w  foldere '/etc/'
+13. Jak przetestowałbyś bashową komendę cp?
+	Na początek wpisałabym w terminalu polecenie 'man cp' w celu sprawdzenia do czego dana komenda służy, następnie sprawdziłabym czy nie jest na nią nałożony alias np. alias cp='ls -a'.
+
